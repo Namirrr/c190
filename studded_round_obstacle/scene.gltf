@@ -1,0 +1,546 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1373,
+      "max": [
+        1.0682700872421265,
+        48.48918914794922,
+        37.49376678466797
+      ],
+      "min": [
+        -3.6638426780700684,
+        7.916357040405273,
+        -2.944650650024414
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16476,
+      "componentType": 5126,
+      "count": 1373,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1373,
+      "max": [
+        1.1883599758148193,
+        1.2963459491729736
+      ],
+      "min": [
+        -0.18835997581481934,
+        -0.30203574895858765
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10984,
+      "componentType": 5126,
+      "count": 1373,
+      "max": [
+        0.9476149082183838,
+        0.9462335109710693
+      ],
+      "min": [
+        0.0523851215839386,
+        0.05148494243621826
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21968,
+      "componentType": 5126,
+      "count": 1373,
+      "max": [
+        3.687380790710449,
+        3.687380790710449
+      ],
+      "min": [
+        -2.687380790710449,
+        -2.6972484588623047
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2346,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32952,
+      "componentType": 5126,
+      "count": 1191,
+      "max": [
+        6.414952278137207,
+        45.37748718261719,
+        34.013526916503906
+      ],
+      "min": [
+        -9.333090782165527,
+        11.198957443237305,
+        -0.6922626495361328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47244,
+      "componentType": 5126,
+      "count": 1191,
+      "max": [
+        1.0,
+        1.0,
+        0.9848098158836365
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9848084449768066
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32952,
+      "componentType": 5126,
+      "count": 1191,
+      "max": [
+        1.0,
+        0.8684061765670776
+      ],
+      "min": [
+        -5.960464477539063e-08,
+        0.1012715995311737
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 42480,
+      "componentType": 5126,
+      "count": 1191,
+      "max": [
+        1.0808120965957642,
+        1.1587848663330078
+      ],
+      "min": [
+        -0.08081221580505371,
+        -0.2130071520805359
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52008,
+      "componentType": 5126,
+      "count": 1191,
+      "max": [
+        3.197716236114502,
+        2.442892074584961
+      ],
+      "min": [
+        -2.1977171897888184,
+        -1.364087700843811
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 9384,
+      "componentType": 5125,
+      "count": 2526,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 61536,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        0.9377821683883667,
+        42.70624542236328,
+        31.382854461669922
+      ],
+      "min": [
+        -3.4715113639831543,
+        13.709114074707031,
+        1.938405990600586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 66600,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        1.0,
+        0.9999274611473083,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9848079681396484,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61536,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        0.992103099822998,
+        1.0548040866851807
+      ],
+      "min": [
+        0.007896900177001953,
+        -0.10902649164199829
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 64912,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        0.8199963569641113,
+        0.8188310861587524
+      ],
+      "min": [
+        0.18000367283821106,
+        0.15941974520683289
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 68288,
+      "componentType": 5126,
+      "count": 422,
+      "max": [
+        2.7856876850128174,
+        2.7773642539978027
+      ],
+      "min": [
+        -1.7856876850128174,
+        -1.7856876850128174
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 19488,
+      "componentType": 5125,
+      "count": 672,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "FayNar (https://sketchfab.com/FayNar)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/studded-round-obstacle-12785d659f1e4c608c4468710f786050",
+      "title": "studded round obstacle"
+    },
+    "generator": "Sketchfab-14.1.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22176,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71664,
+      "byteOffset": 22176,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71664,
+      "byteOffset": 93840,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 165504,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/obstacle-rond-hdide_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/obstacle-rond-ood_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/obstacle-boxe_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "obstacle-rond-hdide",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "roughnessFactor": 0.2151295732
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "obstacle-rond-ood",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.4407393293,
+        "roughnessFactor": 0.5931783537
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "obstacle-boxe",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.1785442073,
+        "roughnessFactor": 0.8614710366
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "obstacle-rooda_obstacle-rond-hdide_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "obstacle-rooda_obstacle-rond-ood_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "TEXCOORD_2": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "obstacle-rooda_obstacle-boxe_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "TEXCOORD_2": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "c21f2f99d3ad481999e3df2e1510b07b.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        4.3711388175715626e-08,
+        -6.617444900424222e-24,
+        -0.999999999999999,
+        0.0,
+        4.371138822550555e-08,
+        0.999999999999999,
+        1.9106854552385377e-15,
+        0.0,
+        0.9999999999999981,
+        -4.37113882255056e-08,
+        4.3711388175715626e-08,
+        0.0,
+        64.36412811279297,
+        20.496143341064453,
+        22.116390228271484,
+        1.0
+      ],
+      "name": "obstacle-rooda"
+    },
+    {
+      "children": [
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        6.123233995736766e-17,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        6.123233995736766e-17,
+        -6.123233995736766e-17,
+        0.0,
+        -6.123233995736766e-17,
+        1.0,
+        3.749399456654644e-33,
+        0.0,
+        -28.234127044677734,
+        -17.346538543701172,
+        1.4590675830841064,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "obstacle-rooda_obstacle-rond-hdide_0"
+    },
+    {
+      "mesh": 1,
+      "name": "obstacle-rooda_obstacle-rond-ood_0"
+    },
+    {
+      "mesh": 2,
+      "name": "obstacle-rooda_obstacle-boxe_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

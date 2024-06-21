@@ -1,0 +1,11 @@
+Model Information:
+* title:	studded round obstacle
+* source:	https://sketchfab.com/3d-models/studded-round-obstacle-12785d659f1e4c608c4468710f786050
+* author:	FayNar (https://sketchfab.com/FayNar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "studded round obstacle" (https://sketchfab.com/3d-models/studded-round-obstacle-12785d659f1e4c608c4468710f786050) by FayNar (https://sketchfab.com/FayNar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
